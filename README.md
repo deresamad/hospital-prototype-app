@@ -18,7 +18,8 @@ The wireframe consists of 3 main pages:
 3. **Departments and Doctors Page** – Displays various medical departments and top-rated doctors.
 
 ## **Screenshots**
-![Hospital App Wireframe](./images/newday.png)
+!![New Day](./images/newday.png)
+
 
 
 [Click here to view the Figma design](https://www.figma.com/proto/lTdKIwmMDjpli6tAABGGdQ/newday?t=JQa5VZcwgcg3ZbRI-1)

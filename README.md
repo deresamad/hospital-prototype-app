@@ -9,7 +9,7 @@ This repository contains the wireframe design of a hospital prototype app, creat
 2. **Booking appointments** with medical personnel across different departments.
 3. **E-medicine chat** feature for communication with doctors.
 
-While the wireframe focuses on design, the **future implementation** will involve front-end and back-end features, as outlined below.
+While the wireframe focuses on design, the future implementation will involve front-end and back-end features, as outlined below.
 
 The wireframe consists of 3 main pages:
 

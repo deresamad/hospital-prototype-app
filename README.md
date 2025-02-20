@@ -3,7 +3,7 @@
 
 ## **Project Overview**
 
-This repository contains the wireframe design of a hospital prototype app, created using Figma. This project serves as a **test of my wireframing skills**. The app is designed to showcase the following features:
+This repository contains the wireframe design of a hospital prototype app, created using Figma. This project serves as a test of my wireframing skills. The app is designed to showcase the following features:
 
 1. **Sign up or login** functionality for user accounts.
 2. **Booking appointments** with medical personnel across different departments.
@@ -18,10 +18,12 @@ The wireframe consists of 3 main pages:
 3. **Departments and Doctors Page** – Displays various medical departments and top-rated doctors.
 
 ## **Screenshots**
+![Hospital App Wireframe](./images/newday.png)
 
-Provide links to Figma frames here or add images to showcase your design.
 
-- [**Link to Figma Design**](#) – View the full design on Figma.
+[Click here to view the Figma design](https://www.figma.com/proto/lTdKIwmMDjpli6tAABGGdQ/newday?t=JQa5VZcwgcg3ZbRI-1)
+
+
 
 ### **Page Details**
 
@@ -51,7 +53,7 @@ Provide links to Figma frames here or add images to showcase your design.
 ## **Future Implementation**
 
 ### **Front-End (Planned)**
-- **Development Tool:** The front-end will be developed using [React](https://reactjs.org/) / Angular / Vue.js (select your preferred framework).
+- **Development Tool:** The front-end will be developed using [React]
 - **Features:** 
   - User interface for the sign-up/sign-in process.
   - Displaying the list of departments and doctors.
@@ -59,32 +61,12 @@ Provide links to Figma frames here or add images to showcase your design.
   - Real-time chat interface for e-medicine consultations.
 
 ### **Back-End (Planned)**
-- **Development Tool:** The back-end will be implemented using [Node.js](https://nodejs.org/) / Django / Flask (select your preferred framework).
+- **Development Tool:** The back-end will be implemented using [Node.js]
 - **Database:** MongoDB will be used to store user data, appointment information, and chat history.
 - **Features:** 
   - User authentication for account management.
   - Booking system for appointments with medical personnel.
   - Real-time e-medicine chat feature for communication between doctors and patients.
-
-## **Future Enhancements**
-
-1. **Appointment Scheduling:**
-   - Add a calendar feature for users to select available time slots for their appointments.
-
-2. **E-Medicine Chat Integration:**
-   - Implement a live chat feature where users can communicate with doctors in real time.
-
-3. **User Profile:**
-   - Allow users to view and edit their personal information, medical history, and upcoming appointments.
-
-4. **Push Notifications:**
-   - Send reminders for upcoming appointments and health tips.
-
-5. **Payment Integration:**
-   - Enable users to pay for consultations or appointments via integrated payment gateways.
-
-6. **Doctor Availability & Scheduling:**
-   - Allow doctors to set their availability and manage appointments directly through the app.
 
 ## **Installation**
 

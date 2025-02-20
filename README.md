@@ -18,7 +18,7 @@ The wireframe consists of 3 main pages:
 3. **Departments and Doctors Page** – Displays various medical departments and top-rated doctors.
 
 ## **Screenshots**
-!![New Day](./images/newday.png)
+![New Day](./images/newday.png)
 
 
 
